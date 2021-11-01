@@ -7,6 +7,4 @@ const Loading = () => {
     )
 }
 
-export {
-    Loading
-}
+export default Loading;

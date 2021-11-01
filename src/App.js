@@ -8,10 +8,7 @@ import Detail from './component/detail';
 import { dropdownStyle } from './style';
 import './App.css';
 import {getCountry,getConvertion} from "./graphql";
-import {
-  Loading
-} from './component/index';
-
+import Loading from './component/loading';
 
 function App() {
 
